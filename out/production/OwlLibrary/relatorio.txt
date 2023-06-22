@@ -1,0 +1,6 @@
+Quantidade de livros disponíveis no acervo: 0
+Livros que estão sendo emprestados: 
+Título: mulherzinhas
+CPF do usuário: null
+Título: dom casmurro
+CPF do usuário: null
